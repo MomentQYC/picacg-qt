@@ -1,5 +1,5 @@
 BaseUrl = "http://68.183.234.72/"            # 获得ip列表接口
-Url = "https://up.yateam.cc/browse.php?u=https%3A%2F%2Fpicaapi.picacomic.com%2F"       # 域名
+Url = "https://hps.yatserver.com/https://picaapi.picacomic.com/"       # 域名
 ApiKey = "C69BAF41DA5ABD1FFEDC6D2FEA56B"     # apiKey
 AppChannel = "3"
 Version = "2.2.1.3.3.4"                      # 版本号
