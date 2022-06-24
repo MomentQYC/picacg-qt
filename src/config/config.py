@@ -1,5 +1,5 @@
 BaseUrl = "http://68.183.234.72/"            # 获得ip列表接口
-Url = "https://picaapi.picacomic.com/"       # 域名
+Url = "https://up.yateam.cc/browse.php?u=https%3A%2F%2Fpicaapi.picacomic.com%2F"       # 域名
 ApiKey = "C69BAF41DA5ABD1FFEDC6D2FEA56B"     # apiKey
 AppChannel = "3"
 Version = "2.2.1.3.3.4"                      # 版本号
@@ -26,10 +26,10 @@ PreLook = 4                    # 预显示
 
 IsLoadingPicture = True
 
-UpdateUrl = "https://github.com/tonquer/picacg-qt/releases/latest"
-UpdateUrlBack = "https://github.com/tonquer/picacg-qt"
-UpdateUrl2 = "https://hub.fastgit.xyz/tonquer/picacg-qt/releases/latest"
-UpdateUrl2Back = "https://hub.fastgit.xyz/tonquer/picacg-qt"
+UpdateUrl = "https://github.com/MomentQYC/picacg-qt/releases/latest"
+UpdateUrlBack = "https://github.com/MomentQYC/picacg-qt"
+UpdateUrl2 = "https://hub.fastgit.xyz/MomentQYC/picacg-qt/releases/latest"
+UpdateUrl2Back = "https://hub.fastgit.xyz/MomentQYC/picacg-qt"
 
 DatabaseUpdate = "https://raw.githubusercontent.com/bika-robot/picacg-database/main/version3.txt"
 DatabaseDownload = "https://raw.githubusercontent.com/bika-robot/picacg-database/main/data3/"
